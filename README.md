@@ -119,4 +119,3 @@ shareholders alike.
 ## Tools Used
 - **Saasu** — cloud-based ERP software for posting and reviewing 
   all corporate transactions
-- **Microsoft Word** — report writing with annotated screenshots
